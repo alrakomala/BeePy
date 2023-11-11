@@ -4,7 +4,7 @@
 
 ## Introducción
 
-El primer exoplaneta fue descubierto en 1990 y desde entonces se han identificado miles utilizando diversas técnicas como: tránsito, velocidad radial, imagen directa, microlentes, entre otros ([aquí números](https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html)). La misión que ha descubierto más exoplanetas ha sido [**Kepler**](https://www.nasa.gov/mission_pages/kepler/overview/index.html), telescopio espacial que estuvo dedicado cerca de 10 años a la búsqueda de planetas extrasolares, especialmente aquellos de tamaño similar a la Tierra y que se encuentran en la zona de habitabilidad de su estrella.
+El primer exoplaneta fue descubierto en 1995 y desde entonces se han identificado miles utilizando diversas técnicas como: tránsito, velocidad radial, imagen directa y microlentes ([aquí números](https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html)). El proyecto que ha descubierto más exoplanetas es la Misión [**Kepler**](https://www.nasa.gov/mission_pages/kepler/overview/index.html), telescopio espacial que estuvo dedicado cerca de 10 años a la búsqueda de planetas extrasolares, especialmente aquellos de tamaño similar a la Tierra y que se encuentran en la zona de habitabilidad de su estrella.
 
 Gracias a la Misión Kepler ahora sabemos que hay más planetas que estrellas en la galaxia. La técnica de detección con Kepler es la de tránsito, consiste en medir la luminosidad de la estrella como función del tiempo para identificar pequeñas disminuciones como consecuencia del paso del planeta entre la estrella y el observador (un mini mini eclipse).
 
@@ -14,7 +14,7 @@ Analizando la curva de luz es posible determinar el tamaño del planeta.
 
 Analizar los datos disponibles para: 
 
-- Familiarizarse con las propiedades y escalas de los exoplanetas y de su estrella anfitriona.
+- Familiarizarse con las propiedades y escalas de los exoplanetas, y de su estrella anfitriona.
 - Identificar sistemas planetarios.
 - Determinar si la tercera ley de Kepler es válida para exoplanetas.
 - Construir un modelo de aprendizaje automatizado que sea capaz de identificar futuros candidatos. 
